@@ -1,18 +1,12 @@
 [
   {
-    "id": "n1",
     "title": "New Course Available",
-    "text": "React.js advanced tutorial अब live है!",
-    "time": "2025-08-09T10:00:00Z",
-    "read": false,
-    "source": "MohitCodes"
+    "message": "React.js advanced tutorial अब live है!",
+    "time": "2025-08-09T10:00:00Z"
   },
   {
-    "id": "n2",
     "title": "Website Update",
-    "text": "Dark mode now supports animations.",
-    "time": "2025-08-08T18:00:00Z",
-    "read": true,
-    "source": "System"
+    "message": "Dark mode now supports animations.",
+    "time": "2025-08-08T18:00:00Z"
   }
 ]
